@@ -4,7 +4,7 @@ A simple Firefox add-on  to save the current web page to the [Amazing Marvin](ht
 NOTE: This project is adapted from Joe Trellick's [Save to Marvin Chrome Extension](https://github.com/joe-trellick/savetomarvin) and is not affiliated with the makers of Amazing Marvin.
 
 # How It Works
-### Screenshots of this process for the **Chrome** extension can be found [here](https://github.com/joe-trellick/savetomarvin/blob/main/README.md).
+### More detailed screenshots of this process for the **Chrome** extension can be found [here](https://github.com/joe-trellick/savetomarvin/blob/main/README.md).
 * Visit a web page that corresponds to a task you want to do: perhaps a document to read, the site where you have to pay a bill, or the Gmail message to respond to.
 
 * Click the Save to Marvin button in the Firefox toolbar.
