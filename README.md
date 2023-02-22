@@ -47,9 +47,10 @@ NOTE: This project is adapted from Joe Trellick's [Save to Marvin Chrome Extensi
 This was created as a short side project in December 2022 for my own purposes. I am not currently planning to spend any additional time updating this project, but you are more than welcome to use it, adapt it, or use it as the basis for some other project.
 
 ## Collaboration
-If you would like to be added as a collaborator or owner for the current [Save to Marvin product page](https://addons.mozilla.org/en-US/firefox/addon/save-to-marvin/), email me at [Unprepared1313@gmail.com](mailto:unprepared1313@gmail.com).
 
 If you would like to be added as a collaborator or owner for this repository, please submit an issue.
+
+If you would like to be added as a collaborator or owner for the current [Save to Marvin product page](https://addons.mozilla.org/en-US/firefox/addon/save-to-marvin/), email me at [Unprepared1313@gmail.com](mailto:unprepared1313@gmail.com). (You may also submit an issue here, but you will need to include the email you want associated with the Firefox add-on.)
 
 ## Privacy Policy
 You can find the privacy policy for this software [here](PrivacyPolicy.md).
